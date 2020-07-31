@@ -1,0 +1,12 @@
+{
+  "name": "justmob-rn-assignment",
+  "displayName": "justmob-rn-assignment",
+  "expo": {
+    "name": "justmob-rn-assignment",
+    "slug": "justmob-rn-assignment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
